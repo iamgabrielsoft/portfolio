@@ -4,19 +4,22 @@ import { Section, SectionText, SectionTitle, Link } from '../../styles/GlobalCom
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
+
+
+
 const Hero = (props) => (
   <>
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Hey there,
+         Hello,
         </SectionTitle>
         <SectionText>
-          Hey there, This is Vipul Jha aka lordarcadius. I am an Android & Flutter developer who also works on ROMs, Kernels, & Scripts.
+          This is Gabrielsoft. I am a Open Source & Web developer
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();
-          window.location.href = '/files/resume.pdf';
+          window.location.href = '/files/Entry-Role-Resume(1).pdf';
         }}>My Resume</Button>
       </LeftSection>
     </Section>

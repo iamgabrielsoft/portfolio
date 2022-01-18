@@ -1,10 +1,10 @@
 export const projects = [
   {
-    title: 'Covid-19 Status App',
-    description: "COVID-19 Status is a free, open-source Android application that shows the current state of COVID-19 in India and the world. It has a beautiful, simple, fast, and responsive UI.",
+    title: 'ComicatBlog',
+    description: "Build Better Audience using the Platform",
     image: '/images/covid.jpg',
-    tags: ['Java', 'XML', 'Firebase', 'Rest API'],
-    source: 'https://github.com/Coders-Of-XDA-OT/covid19-status-android',
+    tags: ['Typescript', 'React', 'Nodejs', 'Rest API', 'MYSQL'],
+    source: 'https://github.com/iamgabrielsoft/comicat',
     visit: 'https://project.vipuljha.com/covid/',
     id: 0,
   },
@@ -13,8 +13,8 @@ export const projects = [
     description: "This was my personal portfolio website that has all my work and project experience, including my resume. It used to be my main portfolio before deploying this current portfolio.",
     image: '/images/portfolio.jpg',
     tags: ['HTML', 'CSS', 'Bootstrap', 'JQuery'],
-    source: 'https://github.com/lordarcadius/website',
-    visit: 'https://project.vipuljha.com/website/',
+    source: 'https://github.com/iamgabrielsoft/portfolio',
+    visit: 'https://project.gabrielsoft/portfolio.com',
     id: 1,
   },
   {
@@ -57,10 +57,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2016, text: 'Started my journey as a new developer.', },
-  { year: 2017, text: 'Worked intensively on ROMs & Kernels.', },
-  { year: 2018, text: 'Learned Android app development.', },
-  { year: 2019, text: 'Finished Diploma in Computer Engineering.', },
-  { year: 2020, text: 'Got a scholarship from the Delhi government.', },
-  { year: 2021, text: 'Still trying to figure out this weird year.', },
+  { year: 2019, text: 'Started my journey as a Web developer with Javascript and Nodejs.'},
+  { year: 2020, text: 'Worked on Open Source Projects.', },
+  { year: 2021, text: 'Got a Backend developer role', },
 ];
