@@ -10,7 +10,7 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Chat</LinkTitle>
-          <LinkItem href="https://whatsapp.com/+2347065809814">Whatsapp</LinkItem>
+          <LinkItem href="https://wa.link/qro556">WhatsApp</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; 2022 <Link href="https://www.iamgabrielsoft.com">  Gabrielsoft</Link> . All rights reserved.</Slogan>
+          <Slogan>&copy; 2022 <Link href="#">  Gabrielsoft</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/iamgabrielsoft">
